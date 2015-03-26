@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Hi! My name is Mandy. I'm married to my high school sweetheart. We are addicted to coffee, binge-watching tv shows and exploring new cities. We live in the midwest but day dream about the PNW. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I have a photography business with my best friend and we bake a lot of pumpkin flavored things together while listening to Taylor Swift. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Some of my favorite things are lattes, Christmas time, Oregon, blankets, Gilmore Girls, fall, my adorable puppy and anything with stripes. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+![mandy](/assets/images/beach.jpg)
+![mandyandfledtcher](/assets/images/mandyandfletcher.jpg)
